@@ -1,1 +1,9 @@
 Hello world!
+git init
+git fetch origin master
+git checkout master
+git status
+git commit -a -m "blah"
+git push
+git add vlad(folder)
+git add --all
