@@ -1,1 +1,6 @@
-Kaku is here
+Commands:
+git clone url
+git add newFile
+git commit -m "Message" folder or folder/file
+git status
+git push
